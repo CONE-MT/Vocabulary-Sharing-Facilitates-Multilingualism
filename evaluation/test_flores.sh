@@ -1,0 +1,2 @@
+PROJ_PATH=/cpfs01/user/yuanshuai/code/how_multi
+sudo /cpfs01/shared/NLP-A100/NLP-A100_hdd/jie/anaconda3/envs/llm2/bin/python ${PROJ_PATH}/evaluation/eval.py --cfg ${PROJ_PATH}/evaluation/flores.yaml --input_file eng.devtest --lang_pair en-ca --base_model /cpfs01/shared/NLP-A100/NLP-A100_hdd/feyuan/model/llama_family/llama-7b-hf  --beam_size 4

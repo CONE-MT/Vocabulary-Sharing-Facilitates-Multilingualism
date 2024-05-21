@@ -1,0 +1,2 @@
+chmod +x /cpfs01/user/yuanshuai/scripts/dlc 
+/cpfs01/user/yuanshuai/scripts/dlc config --access_id  yuanshuai  --endpoint  pai-proxy.cb210e3f99cd7403f8de2a630dcc99fc3.cn-wulanchabu.alicontainer.com:80  --access_key  JPFPcLVzclrh6xK76cEI --protocol http
